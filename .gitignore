@@ -1,0 +1,4 @@
+.vscode/
+connect4
+runner
+runner.cpp
